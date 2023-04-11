@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite !important;
+}
+.container{
+    background-color: aliceblue;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+#submit{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
